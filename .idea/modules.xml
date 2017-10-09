@@ -3,7 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Layout.iml" filepath="$PROJECT_DIR$/Layout.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearLayout/LinearLayout.iml" filepath="$PROJECT_DIR$/LinearLayout/LinearLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/absolutelayout/absolutelayout.iml" filepath="$PROJECT_DIR$/absolutelayout/absolutelayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framelayout/framelayout.iml" filepath="$PROJECT_DIR$/framelayout/framelayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gridlayout/gridlayout.iml" filepath="$PROJECT_DIR$/gridlayout/gridlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/relativelayout/relativelayout.iml" filepath="$PROJECT_DIR$/relativelayout/relativelayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tablelayout/tablelayout.iml" filepath="$PROJECT_DIR$/tablelayout/tablelayout.iml" />
     </modules>
   </component>
 </project>
